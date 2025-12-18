@@ -1,0 +1,14 @@
+# Données (outputs générés)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
